@@ -4,7 +4,7 @@
 <!-- Mirrored from www.themezaa.com/html/pofo/home-creative-studio.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 18 Sep 2020 13:31:27 GMT -->
 <head>
         <!-- title -->
-        <title>POFO – Creative Agency, Corporate and Portfolio Multi-purpose Template</title>
+        <title>POFO – Creative Agency, Corporate and Portfolio Multi-purpose</title>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1" />
